@@ -1,0 +1,77 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-3-3892
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=1 type=0 insize=6976 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=6972 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=6972 outsize=328 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=6979 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=6975 outsize=618 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=6989 outsize=328 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=6987 outsize=478 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit
+  api=4 type=1 insize=1812 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit
+  api=4 type=0 insize=2076 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit
+  api=4 type=1 insize=2076 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  api=1 type=0 insize=2756 outsize=169 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1799 outsize=304 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1183 outsize=2454 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1998 outsize=256 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2011 outsize=242 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2009 outsize=213 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=968 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1096 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=6106 outsize=328 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=6106 outsize=2519 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=6110 outsize=335 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=6119 outsize=618 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=6113 outsize=618 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=6111 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=6115 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=6105 outsize=213 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=952 outsize=1650 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1607 outsize=994 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 8 at (0): Program 'frag', error X4506: ps_4_0_level_9_1 input limit (8) exceeded, shader uses 9 inputs.
+  api=8 type=1 insize=4129 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  api=0 type=0 insize=3311 outsize=328 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3328 outsize=741 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1347 outsize=2275 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=714 outsize=1438 kw= ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process

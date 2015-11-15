@@ -1,0 +1,59 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-8-7616
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=8 type=1 insize=6972 outsize=3356 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=6972 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=6975 outsize=887 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=6984 outsize=420 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=6989 outsize=2121 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=995 outsize=315 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2076 outsize=7176 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit
+  api=4 type=0 insize=2756 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit
+  api=8 type=1 insize=1799 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  api=0 type=1 insize=2000 outsize=332 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1998 outsize=1577 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1998 outsize=1325 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2009 outsize=375 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=968 outsize=328 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=32644 outsize=4416 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=6110 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=6119 outsize=4152 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=6113 outsize=860 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=6119 outsize=618 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=6119 outsize=3754 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1607 outsize=765 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4129 outsize=458 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3319 outsize=753 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3323 outsize=464 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=714 outsize=1008 kw= ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process

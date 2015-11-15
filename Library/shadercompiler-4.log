@@ -1,0 +1,76 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-4-6264
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=0 type=0 insize=6976 outsize=328 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=6972 outsize=515 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=6979 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=6979 outsize=2227 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=6975 outsize=328 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=6984 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=6989 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=6982 outsize=328 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=6982 outsize=292 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=6980 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=6980 outsize=2592 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=10526 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=10549 outsize=332 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=10548 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=995 outsize=217 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1367 outsize=332 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit
+  api=4 type=0 insize=2582 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit
+  api=4 type=1 insize=2582 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit
+  api=8 type=0 insize=1799 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  api=1 type=0 insize=1183 outsize=351 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1998 outsize=117 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=2009 outsize=1577 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1096 outsize=355 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=6113 outsize=3202 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=6115 outsize=590 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=6105 outsize=335 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1607 outsize=695 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=32654 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4129 outsize=1043 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3311 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3311 outsize=1861 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3323 outsize=741 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1347 outsize=379 kw= ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process
